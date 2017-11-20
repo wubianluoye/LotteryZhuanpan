@@ -6,8 +6,11 @@
     `<script src="js/awardRotate.js"></script>`
 
 效果图1：
+
 ![](https://i.imgur.com/I7PmLSM.png)
+
 效果图2：
+
 ![](https://i.imgur.com/H7nzUzT.gif)
 
 核心代码：
