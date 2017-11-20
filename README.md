@@ -11,7 +11,7 @@
 
 效果图2：
 
-![](https://i.imgur.com/H7nzUzT.gif)
+![](https://i.imgur.com/UqxtBHG.gif)
 
 核心代码：
 
